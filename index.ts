@@ -1,2 +1,4 @@
 let text = "hello";
-console.log(text)
+
+let name = "Sir Ameen"
+console.log(text + " "+ name )
